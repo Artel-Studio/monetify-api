@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'drf_firebase_auth',
 
     'users',
+    'api',
 ]
 
 MIDDLEWARE = [
